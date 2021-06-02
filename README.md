@@ -1,12 +1,21 @@
-# Below is tips and tricks I found while attending DigitalCrafts Full Stack Course
+Shortcuts:
 
-[GIT Tips](#git-tips)
+[Terminal](#terminal)
 
-[Python Tips](#python-tips)
+[GIT](#git-tips)
 
-[JavaScript Tips](#javascript-tips)
+[Python](#python-tips)
 
-## GIT Tips
+[JavaScript](#javascript-tips)
+
+# Terminal:
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+# Git Tips:
 
 remove any existing .DS_Store files from the repo and prevent any further .DS_Store files from being added to the project
 
@@ -16,10 +25,10 @@ git config --global core.excludesfile ~/.gitignore
 echo .DS_Store >> ~/.gitignore
 ```
 
-## Python Tips
+# Python Tips:
 
 none yet :-(
 
-## JavaScript Tips
+# JavaScript Tips:
 
 none yet :-(
