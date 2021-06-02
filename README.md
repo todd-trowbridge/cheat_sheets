@@ -12,12 +12,12 @@ Shortcuts:
 
 Command | Common Arguments | Action | Usage
 --------|------------------|--------|------
-ls | &nbsp; | list files | > ls -la
+ls | &nbsp; | list files | ls -la
 &nbsp; | -l | show extended details | &nbsp;
-&nbsp; | -a | show files starting with period (example .git folder) | &nbsp;
-mv | &nbsp; | move file | > mv 1.txt 2.txt
-&nbsp; | -f | Do NOT prompt for confirmation before overwriting an exisiting file. | &nbsp;
-&nbsp; | -n | Do NOT overwrite any existing files.
+&nbsp; | -a | show files starting with period  | &nbsp;
+mv | &nbsp; | move file | mv 1.txt 2.txt
+&nbsp; | -f | do NOT prompt for confirmation before overwriting | &nbsp;
+&nbsp; | -n | do NOT overwrite any existing files
 
 # Git Tips:
 
