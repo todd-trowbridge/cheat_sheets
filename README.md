@@ -10,11 +10,12 @@ Shortcuts:
 
 # Terminal:
 
-Command | Arguments | Action
---------|-----------|-------
-ls | &nbsp; | list files
-&nbsp; | -l | show extended details
-&nbsp; | -a | show files starting with period (example .git folder)
+Command | Arguments | Action | Usage
+--------|-----------|--------|------
+ls | &nbsp; | list files | ```ls -la```
+&nbsp; | -l | show extended details | &nbsp;
+&nbsp; | -a | show files starting with period (example .git folder) | &nbsp;
+mv | &nbsp; | move file | ```mv 1.txt 2.txt```
 
 # Git Tips:
 
