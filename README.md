@@ -10,12 +10,11 @@ Shortcuts:
 
 # Terminal:
 
-Command | Argument | Action 
---------|----------|--------
-ls | | list files 
-  | -l | long format
-  | -a | include directories that start with . (example .git folder)
-
+Command | Arguments | Action
+--------|-----------|-------
+ls | -la | list files
+``` ``` | -l | show extended details
+``` ``` | -a | show files starting with period (example .git folder)
 
 # Git Tips:
 
