@@ -12,9 +12,9 @@ Shortcuts:
 
 Command | Arguments | Action
 --------|-----------|-------
-ls | ` ` | list files
-` ` | -l | show extended details
-` ` | -a | show files starting with period (example .git folder)
+ls | &nbsp; | list files
+&nbsp; | -l | show extended details
+&nbsp; | -a | show files starting with period (example .git folder)
 
 # Git Tips:
 
