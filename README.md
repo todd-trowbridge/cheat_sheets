@@ -5,7 +5,7 @@
 [JavaScript](#javascript-tips)
 
 
-# Git Tips:
+# Git Tips
 
  > remove any existing .DS_Store files from the repo and prevent any further .DS_Store files from being added to the project
 
@@ -15,10 +15,10 @@ git config --global core.excludesfile ~/.gitignore
 echo .DS_Store >> ~/.gitignore
 ```
 
-# Python Tips:
+# Python Tips
 
 none yet :-(
 
-# JavaScript Tips:
+# JavaScript Tips
 
 none yet :-(
