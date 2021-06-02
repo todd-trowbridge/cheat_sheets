@@ -17,8 +17,8 @@ echo .DS_Store >> ~/.gitignore
 
 # Python Tips
 
-none yet :-(
+none yet
 
 # JavaScript Tips
 
-none yet :-(
+none yet
