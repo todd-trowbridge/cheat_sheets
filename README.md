@@ -10,8 +10,9 @@ Shortcuts:
 
 # Terminal:
 
-| Command | Argument | Example |
+| Command | Argument | Action |
 |---------|----------|---------|
+ls | | list files 
 
 
 # Git Tips:
