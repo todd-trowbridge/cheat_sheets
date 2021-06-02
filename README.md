@@ -1,5 +1,3 @@
-Shortcuts:
-
 [GIT](#git-tips)
 
 [Python](#python-tips)
