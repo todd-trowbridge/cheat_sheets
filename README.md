@@ -10,9 +10,11 @@ Shortcuts:
 
 # Terminal:
 
-| Command | Argument | Action |
-|---------|----------|---------|
+Command | Argument | Action 
+--------|----------|--------
 ls | | list files 
+ | -l | long format
+ | -a | include directories that start with . (example .git folder)
 
 
 # Git Tips:
